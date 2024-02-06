@@ -8,6 +8,7 @@ I am a data analyst
 - Extracting insights with SQL, R, and Python
 - Visualizing data with Tableau and Power BI
 - Analyzing qualitative data using NVivo
+- Applying statistical techniques for data analysis
 
 ---
 
