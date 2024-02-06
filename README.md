@@ -16,7 +16,7 @@ I am a data analyst
 SQL / R / Python / HTML / CSS / Tableau / Power BI / NVivo
 
 
-
+---
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/adnanmayof//) 
