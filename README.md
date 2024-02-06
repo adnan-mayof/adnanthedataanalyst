@@ -4,9 +4,17 @@
 
  As a data analyst, I extract insights from complex datasets using SQL, R, and Python, employing advanced analytical techniques to uncover patterns and trends. I visualize my findings through interactive dashboards using Tableau and Power BI, ensuring stakeholders grasp key insights effectively. Additionally, I utilize NVivo for qualitative data analysis, integrating HTML and CSS for web-based reporting and data presentation.
 
+ --------------------------------------------------
+|                   DATA ANALYST                 |
+--------------------------------------------------
+| Extracting insights with SQL, R, and Python   |
+| Visualizing data with Tableau and Power BI    |
+| Analyzing qualitative data using NVivo        |
+--------------------------------------------------
+
+
 Skills: SQL/ R / Python/ HTML / CSS/Tableau/Power BI/NVivo
 
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/adnanmayof//) 
