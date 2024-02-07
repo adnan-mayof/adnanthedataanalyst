@@ -17,7 +17,11 @@ And welcome to my page! I'm Adnan, and I have a deep passion for data analysis, 
 <b> SQL </b>
   - [_Transforming-Student-Dropout-dataset-records-from-numerical-values-to-their-actual-Label](https://github.com/adnanthedataanalyst/SQL_Transforming-Student-Dropout-dataset-records-from-numerical-values-to-their-actual-Label)
   - [Data-Validation-Cleaning_Employee-Data-Management-System-](https://github.com/adnanthedataanalyst/SQL-Data-Validation-Cleaning_Employee-Data-Management-System-)
+  - [Data-Cleaning](https://github.com/adnanthedataanalyst/SQL-Data-Cleaning)
 
+<b> Excel </b>
+ - [Data-Cleaning](https://github.com/adnanthedataanalyst/Excel-Data-Cleaning)
+ - 
 
 
  
