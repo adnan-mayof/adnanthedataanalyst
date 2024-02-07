@@ -12,7 +12,7 @@ SQL / R / Python / HTML / CSS / Tableau / Power BI / NVivo
 
 
 <h2> 🤳 Connect with me:</h2>
-[LinkedIn]: https://www.linkedin.com/in/adnanmayof/ 
+[LinkedIn] (https://www.linkedin.com/in/adnanmayof/)
 [Tableau]: https://public.tableau.com/app/profile/adnan.mayof/vizzes   
 [Gmail]: mayof.adnan@gmail.com 
 [Twitter]: https://twitter.com/adnanmayof
@@ -20,11 +20,7 @@ SQL / R / Python / HTML / CSS / Tableau / Power BI / NVivo
 
 
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
----
+ 
 
 
 
