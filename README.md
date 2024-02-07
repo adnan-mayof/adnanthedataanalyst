@@ -11,7 +11,7 @@ SQL / R / Python / HTML / CSS / Tableau / Power BI / NVivo
 ---
 
 
-<h2> 🤳 Connect with me:</h2>
+### 🤳Connect with me
 [LinkedIn] (https://www.linkedin.com/in/adnanmayof/)
 [Tableau]: https://public.tableau.com/app/profile/adnan.mayof/vizzes   
 [Gmail]: mayof.adnan@gmail.com 
