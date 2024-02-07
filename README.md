@@ -8,6 +8,9 @@ And welcome to my page! I'm Adnan, and I have a deep passion for data analysis, 
 <h3> R </h3> 
 - [Logistic Regression predicting Student Dropout](https://github.com/adnanthedataanalyst/Logistic-Regression-predicting-Student-Dropout)
 - 
+
+---
+
 ### Languages and tools
 SQL / R / Python / HTML / CSS / Tableau / Power BI / NVivo
 
