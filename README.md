@@ -1,23 +1,21 @@
 ### Hi there 👋, my name is Adnan Mayof
-I am a data analyst
+And welcome to my page! I'm Tanya and I am passionate about data analysis, storytelling, and visualization. Data visualization is a particular love of mine, and I create vizzes either in Tableau (see my Tableau Public page) or in Python, or I mix these two tools. For analysis, I mainly choose economic data, since I worked for many years as an economic and financial journalist, or historical data, simply out of love for the topic.
 
 ---
 
-### DATA ANALYST
-
-- Extracting insights with SQL, R, and Python
-- Visualizing data with Tableau and Power BI
-- Analyzing qualitative data using NVivo
-- Applying statistical techniques for data analysis
-
----
-
-### Skills
-
+### Languages and tools
 SQL / R / Python / HTML / CSS / Tableau / Power BI / NVivo
 
+---
+
+My repos here are all about Python and SQL.
+
+
+How you can reach me
+LinkedIn ▪️ Gmail ▪️ Twitter
 
 ---
+
 
 
 
