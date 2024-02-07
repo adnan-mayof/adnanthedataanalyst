@@ -10,12 +10,12 @@ SQL / R / Python / HTML / CSS / Tableau / Power BI / NVivo
 
 ---
 
-My repos here are all about R, Excel, and SQL.
+**My repos** here are all about R, Excel, and SQL.
 
 ---
 
 
-How you can reach me
+**How you can reach me**
 ▪️ [LinkedIn](https://www.linkedin.com/in/adnanmayof/) ▪️ [Tableau](https://public.tableau.com/app/profile/adnan.mayof/vizzes)  ▪️  [Gmail](mayof.adnan@gmail.com) ▪️ [Twitter](https://twitter.com/adnanmayof)
 
 ---
