@@ -10,6 +10,9 @@ And welcome to my page! I'm Adnan, and I have a deep passion for data analysis, 
 
 - [Logistic Regression predicting Student Dropout](https://github.com/adnanthedataanalyst/Logistic-Regression-predicting-Student-Dropout)
 
+<h3> SQL </h3> 
+
+
  
  
 
@@ -21,7 +24,7 @@ SQL / R / Python / HTML / CSS / Tableau / Power BI / NVivo
 ---
 
 
-### 🤳Connect with me
+### Feel free reach out
 - [LinkedIn](https://www.linkedin.com/in/adnanmayof/) - [Tableau](https://public.tableau.com/app/profile/adnan.mayof/vizzes)  - [Gmail](mayof.adnan@gmail.com) - [Twitter](https://twitter.com/adnanmayof)
 
 
