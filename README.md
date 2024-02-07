@@ -14,6 +14,17 @@ SQL / R / Python / HTML / CSS / Tableau / Power BI / NVivo
 <h2> 🤳 Connect with me:</h2>
 [LinkedIn] https://www.linkedin.com/in/adnanmayof/  [Tableau]https://public.tableau.com/app/profile/adnan.mayof/vizzes   [Gmail]mayof.adnan@gmail.com ▪️ [Twitter]https://twitter.com/adnanmayof
 
+
+
+[<img align="left" alt="adnanthedataanalyst | Tableau" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg](https://public.tableau.com/app/profile/adnan.mayof/vizzes )" />][Tableau]
+[<img align="left" alt="adnanthedataanalyst | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="adnanthedataanalyst | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="adnanthedataanalyst | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 ---
 
 
