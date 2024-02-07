@@ -8,7 +8,7 @@ And welcome to my page! I'm Adnan, and I have a deep passion for data analysis, 
 
 
 - <b> R </b>
- - [Logistic Regression predicting Student Dropout](https://github.com/adnanthedataanalyst/Logistic-Regression-predicting-Student-Dropout)
+  - [Logistic Regression predicting Student Dropout](https://github.com/adnanthedataanalyst/Logistic-Regression-predicting-Student-Dropout)
 
 <h3> SQL </h3> 
 
