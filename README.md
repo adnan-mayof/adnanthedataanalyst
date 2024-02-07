@@ -9,6 +9,7 @@ SQL / R / Python / HTML / CSS / Tableau / Power BI / NVivo
 ---
 
 My repos here are all about Python and SQL.
+---
 
 
 How you can reach me
