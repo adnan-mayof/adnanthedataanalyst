@@ -32,6 +32,9 @@ And welcome to my page! I'm Adnan, and I have a deep passion for data analysis, 
  - [HLOOKUP](https://github.com/adnanthedataanalyst/Excel_HLOOKUP)
  - [VLOOKUP](https://github.com/adnanthedataanalyst/Excel_VLOOKUP)
  - [If Condition](https://github.com/adnanthedataanalyst/Excel_IF-Condition)
+
+ - <b> SAS: Statistical Analysis System </b>
+  -  [Logistic Regression predicting Student Dropout] In preparation.
 ---
 
 ### Languages and tools
