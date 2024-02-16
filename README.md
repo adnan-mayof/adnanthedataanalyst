@@ -20,8 +20,8 @@ And welcome to my page! I'm Adnan, and I have a deep passion for data analysis, 
  - [Data-Cleaning](https://github.com/adnanthedataanalyst/Excel-Data-Cleaning)
  - 
 
-<b> [Tableau Dashboards] (https://public.tableau.com/app/profile/adnan.mayof/vizzes)</b>
- - [Dashboards] (https://public.tableau.com/app/profile/adnan.mayof/vizzes)
+<b> Tableau Dashboards </b>
+ - [Dashboards](https://public.tableau.com/app/profile/adnan.mayof/vizzes)
  - [Student Dropout](https://public.tableau.com/app/profile/adnan.mayof/viz/StudentDropout/Dashboard1)
  - [Student Mental health](https://public.tableau.com/app/profile/adnan.mayof/viz/StudentMentalhealth_17049246093570/Dashboard2)
  - [Heart Diseases](https://public.tableau.com/app/profile/adnan.mayof/viz/HeartDiseases_17048449495930/Dashboard1)
