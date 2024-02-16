@@ -16,10 +16,6 @@ And welcome to my page! I'm Adnan, and I have a deep passion for data analysis, 
   - [Data-Validation-Cleaning_Employee-Data-Management-System-](https://github.com/adnanthedataanalyst/SQL-Data-Validation-Cleaning_Employee-Data-Management-System-)
   - [Data-Cleaning](https://github.com/adnanthedataanalyst/SQL-Data-Cleaning)
 
-<b> Excel </b>
- - [Data-Cleaning](https://github.com/adnanthedataanalyst/Excel-Data-Cleaning)
- - 
-
 <b> Tableau </b>
  - [Dashboards](https://public.tableau.com/app/profile/adnan.mayof/vizzes)
  - [Student Dropout](https://public.tableau.com/app/profile/adnan.mayof/viz/StudentDropout/Dashboard1)
@@ -27,7 +23,13 @@ And welcome to my page! I'm Adnan, and I have a deep passion for data analysis, 
  - [Heart Diseases](https://public.tableau.com/app/profile/adnan.mayof/viz/HeartDiseases_17048449495930/Dashboard1)
  - [Sales Transaction Data](https://public.tableau.com/app/profile/adnan.mayof/viz/FirstReport_17043083364620/Dashboard1)
  
-
+<b> Excel </b>
+ - [Index Match](https://github.com/adnanthedataanalyst/Excel_Index-Match)
+ - [Data-Cleaning](https://github.com/adnanthedataanalyst/Excel-Data-Cleaning)
+ - [Pivot Tables](https://github.com/adnanthedataanalyst/Excel_Pivot_Tables)
+ - [HLOOKUP](https://github.com/adnanthedataanalyst/Excel_HLOOKUP)
+ - [VLOOKUP](https://github.com/adnanthedataanalyst/Excel_VLOOKUP)
+ - [If Condition](https://github.com/adnanthedataanalyst/Excel_IF-Condition)
 ---
 
 ### Languages and tools
