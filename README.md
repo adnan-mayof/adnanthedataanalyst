@@ -11,8 +11,6 @@ And welcome to my page! I'm Adnan, and I have a deep passion for data analysis, 
   -  [Logistic Regression predicting Student Dropout](https://github.com/adnanthedataanalyst/Logistic-Regression-predicting-Student-Dropout)
  
 
-- 
-
 <b> SQL </b>
   - [_Transforming-Student-Dropout-dataset-records-from-numerical-values-to-their-actual-Label](https://github.com/adnanthedataanalyst/SQL_Transforming-Student-Dropout-dataset-records-from-numerical-values-to-their-actual-Label)
   - [Data-Validation-Cleaning_Employee-Data-Management-System-](https://github.com/adnanthedataanalyst/SQL-Data-Validation-Cleaning_Employee-Data-Management-System-)
@@ -23,8 +21,11 @@ And welcome to my page! I'm Adnan, and I have a deep passion for data analysis, 
  - 
 
 <b> [Tableau Dashboards] (https://public.tableau.com/app/profile/adnan.mayof/vizzes)</b>
+ - [Dashboards] (https://public.tableau.com/app/profile/adnan.mayof/vizzes)
  - [Student Dropout](https://public.tableau.com/app/profile/adnan.mayof/viz/StudentDropout/Dashboard1)
- 
+ - [Student Mental health](https://public.tableau.com/app/profile/adnan.mayof/viz/StudentMentalhealth_17049246093570/Dashboard2)
+ - [Heart Diseases](https://public.tableau.com/app/profile/adnan.mayof/viz/HeartDiseases_17048449495930/Dashboard1)
+ - [Sales Transaction Data](https://public.tableau.com/app/profile/adnan.mayof/viz/FirstReport_17043083364620/Dashboard1)
  
 
 ---
