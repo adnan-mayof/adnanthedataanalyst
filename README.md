@@ -6,15 +6,13 @@ And welcome to my page! I'm Adnan, and I have a deep passion for data analysis, 
 ---
 <h2> 👨‍💻 Data Analysis Projects </h2>
 
+<b> SQL </b>
+  - [Transforming-Student-Dropout-dataset-records-from-numerical-values-to-their-actual-Label](https://github.com/adnanthedataanalyst/SQL_Transforming-Student-Dropout-dataset-records-from-numerical-values-to-their-actual-Label)
+  - [Data-Validation-Cleaning_Employee-Data-Management-System-](https://github.com/adnanthedataanalyst/SQL-Data-Validation-Cleaning_Employee-Data-Management-System-)
+  - [Data-Cleaning](https://github.com/adnanthedataanalyst/SQL-Data-Cleaning)
 
 <b> R </b>
   -  [Logistic Regression predicting Student Dropout](https://github.com/adnanthedataanalyst/Logistic-Regression-predicting-Student-Dropout)
- 
-
-<b> SQL </b>
-  - [_Transforming-Student-Dropout-dataset-records-from-numerical-values-to-their-actual-Label](https://github.com/adnanthedataanalyst/SQL_Transforming-Student-Dropout-dataset-records-from-numerical-values-to-their-actual-Label)
-  - [Data-Validation-Cleaning_Employee-Data-Management-System-](https://github.com/adnanthedataanalyst/SQL-Data-Validation-Cleaning_Employee-Data-Management-System-)
-  - [Data-Cleaning](https://github.com/adnanthedataanalyst/SQL-Data-Cleaning)
 
 <b> Tableau </b>
  - [Dashboards](https://public.tableau.com/app/profile/adnan.mayof/vizzes)
