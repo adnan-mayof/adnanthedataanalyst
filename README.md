@@ -34,7 +34,7 @@ And welcome to my page! I'm Adnan, and I have a deep passion for data analysis, 
  - [If Condition](https://github.com/adnanthedataanalyst/Excel_IF-Condition)
 
  - <b> SAS: Statistical Analysis System </b>
-  -  In preparation: Logistic Regression predicting Student Dropout.  
+  -  [Logistic Regression predicting Student Dropout](https://github.com/adnanthedataanalyst/SAS_Binary-Logistic-Regression/tree/main)
 ---
 
 ### Languages and tools
