@@ -38,7 +38,16 @@ And welcome to my page! I'm Adnan, and I have a deep passion for data analysis, 
 ---
 
 ### Languages and tools
-SQL / R / Python / HTML / CSS / Tableau / Power BI / NVivo
+### Technologies Used:
+- SQL :file_folder:
+- R :bar_chart:
+- Python :snake:
+- HTML :page_with_curl:
+- CSS :art:
+- Tableau :chart_with_upwards_trend:
+- Power BI :bulb:
+- NVivo :mag:
+
 
 ---
 
