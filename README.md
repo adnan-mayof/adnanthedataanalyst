@@ -4,7 +4,7 @@
 And welcome to my page! I'm Adnan, and I have a deep passion for data analysis, storytelling, and visualization. I particularly adore data visualization, crafting visualizations using Tableau  [visit my Tableau Public page](https://public.tableau.com/app/profile/adnan.mayof/vizzes), R, or Python, and sometimes combining these tools. **With a background spanning roles such as Post-doctoral Research Scholar, Health Promotion Liaison, Writing Teaching Assistant, and Professional Development Initiative Liaison**, my repository is filled with datasets in health, education, sales, and professional development data—mirroring my profound interest in these subjects. I am excited to share my insights and analyses with you! 
 
 ---
-<h2> 2024 AERA ANNUAL MEETING </h2>
+<b> 2024 AERA ANNUAL MEETING  </b>
 - [Presentation](https://github.com/adnanthedataanalyst/2024-AERA-ANNUAL-MEETING)
 
 
