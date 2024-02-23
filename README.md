@@ -47,8 +47,8 @@ And welcome to my page! I'm Adnan, and I have a deep passion for data analysis, 
 - Tableau :chart_with_upwards_trend:
 - Power BI :bulb:
 - NVivo :mag:
-
-
+---
+2024 AERA ANNUAL MEETING
 ---
 
 
