@@ -5,7 +5,7 @@ And welcome to my page! I'm Adnan, and I have a deep passion for data analysis, 
 
 ---
 2024 AERA ANNUAL MEETING
-- [Presentation] (https://github.com/adnanthedataanalyst/2024-AERA-ANNUAL-MEETING)
+- [Presentation](https://github.com/adnanthedataanalyst/2024-AERA-ANNUAL-MEETING)
 ---
 
 
