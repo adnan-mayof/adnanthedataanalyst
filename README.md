@@ -1,8 +1,5 @@
 <h1>Hi there 👋 </h1>
 
-
-Here's your updated GitHub bio with the YouTube channel mention:  
-
 ---
 
 **Welcome to my page!**  
