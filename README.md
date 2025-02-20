@@ -6,7 +6,7 @@
 
 I'm Adnan, and I have a deep passion for educational technology, instructional design, evidence synthesis, feedback, self-directed learning, the design thinking process, data analysis, storytelling, and visualization.
 
-I especially love data visualization—creating visualizations using Tableau (visit my Tableau Public page), R, and Python, and sometimes combining these tools.
+I especially love data visualization—creating visualizations using Tableau  [visit my Tableau Public page](https://public.tableau.com/app/profile/adnan.mayof/vizzes), R, and Python, and sometimes combining these tools.
 
 I have over five years of experience providing evidence synthesis services and presenting and publishing meta-analyses and evidence syntheses on educational technology and instructional design topics, such as feedback. My repository is filled with datasets that reflect my strong interest in these subjects.
 
