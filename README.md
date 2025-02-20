@@ -1,7 +1,22 @@
 <h1>Hi there 👋 </h1>
 
 
-And welcome to my page! I'm Adnan, and I have a deep passion for data analysis, storytelling, and visualization. I particularly adore data visualization, crafting visualizations using Tableau  [visit my Tableau Public page](https://public.tableau.com/app/profile/adnan.mayof/vizzes), R, or Python, and sometimes combining these tools. **With a background spanning roles such as Post-doctoral Research Scholar, Health Promotion Liaison, Writing Teaching Assistant, and Professional Development Initiative Liaison**, my repository is filled with datasets in health, education, sales, and professional development data—mirroring my profound interest in these subjects. I am excited to share my insights and analyses with you! 
+Here's your updated GitHub bio with the YouTube channel mention:  
+
+---
+
+**Welcome to my page!**  
+
+I'm Adnan, and I have a deep passion for educational technology, instructional design, evidence synthesis, feedback, self-directed learning, the design thinking process, data analysis, storytelling, and visualization.
+
+I especially love data visualization—creating visualizations using Tableau (visit my Tableau Public page), R, and Python, and sometimes combining these tools.
+
+I have over five years of experience providing evidence synthesis services and presenting and publishing meta-analyses and evidence syntheses on educational technology and instructional design topics, such as feedback. My repository is filled with datasets that reflect my strong interest in these subjects.
+
+I also run a YouTube channel where I teach how to use R for meta-analysis.
+
+I'm excited to share my insights and analyses with you!
+
 
 ---
 <b> 2024 AERA ANNUAL MEETING  </b>
